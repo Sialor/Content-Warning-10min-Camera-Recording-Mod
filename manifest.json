@@ -1,6 +1,6 @@
 {
-    "name": "Content Warning 10min Camera Recording Mod ",
-    "version_number": "1",
+    "name": "Content_Warning_10min_Camera_Recording_Mod ",
+    "version_number": "1.0.0",
     "website_url": "https://github.com/Sialor/Content-Warning-10min-Camera-Recording-Mod",
     "description": "This mod increases the recording length of the camera from 90sec to 600sec",
     "dependencies": [
